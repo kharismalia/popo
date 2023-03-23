@@ -4,7 +4,7 @@
   "description": "Project pelatihan Node.js Squad",
   "main": "api/index.js",
   "scripts": {
-    "dev": "nodemon api"
+    "start": "nodemon ."
   },
   "keywords": [
     "express",
